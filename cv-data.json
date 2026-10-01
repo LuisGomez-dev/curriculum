@@ -1,0 +1,111 @@
+{
+  "perfil": {
+    "nombre": "Luis Eduardo Gomez Sainz",
+    "titulo": "Senior Fullstack Developer | Java Specialist & Angular Expert",
+    "email": "luis.e.gomez.sainz@gmail.com",
+    "telefono": "5554064541",
+    "ubicacion": "México DF",
+    "linkedin": "http://www.linkedin.com/in/luis-eduardo-gomez-sainz-831b176a",
+    "linkedinLabel": "/in/luisgomez",
+    "fotoBase64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAGMAYwDASIAAhEBAxEB/8QAHQAAAQQDAQEAAAAAAAAAAAAAAwIEBQYBBwgACf/EAEIQAAEDAwIDBgMGBQIFBAMBAAECAxEABCEFEgYxQQcTIlFhcTKPkBgUI0KhsVLB0eHwFTMJJenn333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333"
+  },
+  "sobreMi": "Ingeniero con más de 20 años de trayectoria transformando necesidades de negocio en soluciones técnicas de alto impacto. Especialista en ecosistemas Java y Angular, con un enfoque pragmático hacia la arquitectura de microservicios y la optimización de procesos críticos en sectores de gobierno y finanzas.",
+  "habilidades": [
+    "Backend: Java (17/21), Spring Boot, Spring Security, Hibernate/JPA, Microservicios, Arquitectura Hexagonal.",
+    "Frontend: Angular (v13+,v14+,v20+), TypeScript, RxJS, Angular Material, HTML5/CSS3, Ionic Framework (Mobile Híbrido).",
+    "Datos & DevOps: PostgreSQL, Oracle, SQL Server, Git, JasperReports, Apache Druid.",
+    "Dev Tools & Infra: Git, CI/CD, Docker, Kubernetes, Jenkins."
+  ],
+  "idiomas": [
+    "Español Nativo",
+    "Inglés Medio"
+  ],
+  "experiencia": [
+    {
+      "empresa": "GOBIERNO",
+      "ubicacion": "CDMX",
+      "periodo": "feb. 2025 - Actualidad",
+      "puesto": "Programador Java Backend (Freelance)",
+      "logros": [
+        "Desarrollo de componentes Fullstack para trámites nacionales, integrando interfaces en Angular con servicios robustos en Java Spring Boot.",
+        "Implementación de pruebas unitarias con JUnit y Mockito para garantizar la calidad del código."
+      ]
+    },
+    {
+      "empresa": "DIGITAL FEMSA",
+      "ubicacion": "CDMX",
+      "periodo": "jul. 2024 - ene. 2025",
+      "puesto": "Programador Java Backend",
+      "logros": [
+        "Migración de arquitectura tradicional a Hexagonal, mejorando la mantenibilidad del código y liderando la implementación de pruebas unitarias."
+      ]
+    },
+    {
+      "empresa": "ATT",
+      "ubicacion": "CDMX",
+      "periodo": "ago. 2022 – may. 2024",
+      "puesto": "Programador Java Backend",
+      "logros": [
+        "Implementación y optimización de plataformas de pago online para diversas tiendas.",
+        "Integración eficiente con interfaces bancarias, incluyendo sistemas AMEX.",
+        "Dominio en la creación de aplicaciones robustas utilizando Java Spring."
+      ]
+    },
+    {
+      "empresa": "FREELANCE",
+      "ubicacion": "CDMX",
+      "periodo": "mar. 2020 - jul. 2022",
+      "puesto": "Consultoría de Sistemas",
+      "logros": [
+        "Liderazgo en la definición y ejecución de proyectos multidisciplinarios.",
+        "Experto en automatización de procesos internos, facilitando la generación de reportes.",
+        "Desarrollo de soluciones tecnológicas a medida utilizando Java Spring y PHP - Laravel."
+      ]
+    },
+    {
+      "empresa": "AFORE XXI BANORTE",
+      "ubicacion": "CDMX",
+      "periodo": "may. 2019 - mar. 2020",
+      "puesto": "Consultor Sr",
+      "logros": [
+        "Liderazgo técnico en la modernización de sistemas para Afore, supervisando 5 equipos de desarrollo.",
+        "Coordinación y definición de sprints, optimizando la planificación y ejecución de tareas.",
+        "Diseño arquitectónico de software y componentes con UML."
+      ]
+    },
+    {
+      "empresa": "ORACLE",
+      "ubicacion": "CDMX",
+      "periodo": "Ago. 2014 - may. 2019",
+      "puesto": "Senior Software Consultant (Fullstack Focus)",
+      "logros": [
+        "Liderazgo Técnico en Banamex: Dirigí la migración crítica de servicios legados de .NET a Java, optimizando el rendimiento sobre WebLogic Server y garantizando la interoperabilidad mediante SOA Suite 12c.",
+        "Desarrollo Fullstack & Mobile: Diseñé y desarrollé un sitio administrativo basado en arquitectura MVC, además de un portal web con enfoque Responsive Design para dispositivos móviles, mejorando la accesibilidad de las herramientas internas.",
+        "Arquitectura de Datos y Procesos: Implementé el Marco de Control de Mensajes (MCF) para la gestión automatizada de pagos de préstamos en CAME, utilizando SQL Server y Oracle Database para garantizar la integridad transaccional.",
+        "Modernización de Interfaces: Desarrollé interfaces de usuario avanzadas para GS1, integrando componentes frontend dinámicos que elevaron la experiencia de usuario (UX) en los portales administrativos.",
+        "Interoperabilidad Segura: Coordiné la transición de Web Services de .NET a Java (SOAP/REST) en Digipro, implementando protocolos de seguridad y estándares de comunicación eficiente entre plataformas."
+      ]
+    },
+    {
+      "empresa": "IMSS (Instituto Mexicano del Seguro Social)",
+      "ubicacion": "CDMX",
+      "periodo": "ene. 2010 - jul. 2014",
+      "puesto": "Consultor Senior de Sistemas",
+      "logros": [
+        "Lideré el desarrollo e implementación de módulos para el sistema de gestión de pacientes y citas médicas.",
+        "Diseñé y optimicé bases de datos para el manejo eficiente de información de más de 5 millones de afiliados.",
+        "Coordiné la migración de sistemas legacy a arquitecturas modernas basadas en microservicios.",
+        "Implementé protocolos de seguridad para el manejo de datos médicos sensibles."
+      ]
+    }
+  ],
+  "educacion": [
+    {
+      "carrera": "MATEMÁTICAS APLICADAS A LA COMPUTACIÓN",
+      "institucion": "UNAM - ENEP",
+      "ubicacion": "CDMX",
+      "anio": "2001",
+      "descripcion": "Carrera especializada en la aplicación de matemáticas avanzadas para el desarrollo de sistemas informáticos innovadores."
+    }
+  ]
+}
