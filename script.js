@@ -18,7 +18,8 @@ document.addEventListener('DOMContentLoaded', () => {
 function renderCV(data) {
     // 1. Información de Perfil
     const perfil = data.perfil;
-    document.getElementById('profile-img').src = perfil.fotoBase64;
+    //document.getElementById('profile-img').src = perfil.fotoBase64;
+    document.getElementById('profile-img').src = perfil.foto;
     document.getElementById('user-name').innerHTML = perfil.nombre.replace(" ", "<br>");
     document.getElementById('user-title').textContent = perfil.titulo;
     document.getElementById('user-email').textContent = perfil.email;

@@ -1,6 +1,7 @@
 {
   "perfil": {
     "nombre": "Luis Eduardo Gomez Sainz",
+    "foto": "./foto.jpg",
     "titulo": "Senior Fullstack Developer | Java Specialist & Angular Expert",
     "email": "luis.e.gomez.sainz@gmail.com",
     "telefono": "5554064541",
